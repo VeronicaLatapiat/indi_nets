@@ -28,7 +28,7 @@ Follow the steps below to generate individualized coexpression networks:
      - Replace `<input_data_file>` with the path to your gene expression data file.
      - Replace `<output_file>` with the desired name for the SSN output file.
 
-3. Run the script "csn.py" to generate the Consensus Coexpression Network (CSN).
+3. Run the script "csn.py" to generate the Consensus Specific Network (CSN).
    - Open a terminal or command prompt and navigate to the directory containing the script.
    - Execute the following command:
      ```
