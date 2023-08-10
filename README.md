@@ -6,10 +6,10 @@ This repository contains scripts for generating individualized coexpression netw
 
 Before using the scripts, ensure that you have the following dependencies installed:
 
-- Python (version X.X.X)
-- numpy (version X.X.X)
-- scipy (version X.X.X)
-- pandas (version X.X.X)
+- Python (version 3.6.7)
+- numpy (version 1.20.1)
+- scipy (version 1.6.2)
+- pandas (version 1.2.4)
 
 ## Usage
 
