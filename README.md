@@ -1,3 +1,5 @@
+/media/vero/SSD-Tesis&U/Methods
+
 # Individualized Coexpression Network Generation
 
 This repository contains scripts for generating individualized coexpression networks based on gene expression data. The coexpression networks are constructed using two different methods: SSN (Specific Sample Network) and CSN (Consensus Coexpression Network).
